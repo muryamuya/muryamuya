@@ -1,8 +1,6 @@
 Learning python and web coding.
 
 Discord: Seraphy#9009
-
-Twitter: @muryamuya
 <!---
 - 👋 Hi, I’m @muryamuya
 - 👀 I’m interested in ...
