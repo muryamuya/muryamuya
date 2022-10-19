@@ -1,4 +1,3 @@
-Learning python and web coding.
 
 Discord: Seraphy#9009
 <!---
