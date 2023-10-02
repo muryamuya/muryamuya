@@ -1,6 +1,7 @@
 
-Discord: Seraphy#9009
+
 <!---
+Discord: Seraphy#9009
 - 👋 Hi, I’m @muryamuya
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
